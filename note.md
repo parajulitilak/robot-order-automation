@@ -1,1 +1,0 @@
-- to open a link from termial -> Command + click

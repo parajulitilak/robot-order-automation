@@ -15,3 +15,7 @@ temp/
 testrun/*
 .~lock*
 *.pkl
+output/
+orders.csv
+note.md
+conda.yaml
