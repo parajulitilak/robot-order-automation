@@ -1,4 +1,3 @@
-```markdown
 # Robot Order Automation
 
 This project automates ordering robots from RobotSpareBin Industries using the [Robocorp Python framework](https://github.com/robocorp/robocorp). It processes orders from a CSV file, generates PDF receipts with embedded screenshots, and archives them into a ZIP file.
@@ -37,7 +36,7 @@ This project automates ordering robots from RobotSpareBin Industries using the [
 - Check `log.html` in `output/` for execution details.
 
 ## Project Structure
-```plaintext
+```
 tasks.py        # Main script with the robot logic
 robot.yaml      # Configuration file specifying dependencies and task execution
 .gitignore      # Excludes generated files (output/, orders.csv, etc.)
@@ -68,4 +67,4 @@ No manual `pip install` needed; RCC handles this based on `robot.yaml`.
 GitHub: [robot-order-automation](https://github.com/parajulitilak/robot-order-automation)
 
 Submitted for Robocorp Python Certification quiz evaluation.
-```
+
